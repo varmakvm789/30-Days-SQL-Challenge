@@ -1,13 +1,17 @@
-# SQL Interview Question Solve Challenge
+# 🎯SQL Interview Question Solve Challenge :
 
-Welcome to the SQL Interview Question Solve Challenge repository! In this repository, you'll find solutions to common SQL interview questions tailored for Data Analysts and Business Analysts. This repository is part of our YouTube series where we tackle one SQL interview question per day for 30 days.
+Welcome to the SQL Interview Question Solve Challenge! 🚀 In this repository, you'll find solutions to common SQL interview questions tailored specifically for Data Analysts and Business Analysts. This is a part of a 30-day-SQL challenge where I tackle one SQL interview question each day. 🗓️💡
+
+Explore the solutions and boost your SQL skills with practical examples and hands-on problem-solving. 🔍📊
+
+I’d love to hear your feedback on this series! 💬 Feel free to share your thoughts or suggestions regarding my problem-solving approach. Your insights are greatly appreciated! 🙌
 
 [![30-Days SQL Challenge](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210205194115/30-Days-of-SQL-%E2%80%93-From-Basic-to-Advanced-Level.png)](https://github.com/varmakvm789/30-Days-SQL-Challenge/)
 
 
 ## About the Series
 
-Each day, we'll solve a different SQL interview question commonly asked by top tech companies like Amazon, Google, Facebook, and more. Our goal is to help aspiring data analysts and business analysts prepare for their interviews by providing detailed explanations and solutions to these questions.
+In this repository, I tackle a new SQL interview question each day, drawing from commonly asked questions by top tech companies such as Amazon, Google, Facebook, and others. 
 
 ## Getting Started
 
@@ -15,12 +19,11 @@ To get started with this repository, simply browse through the folders to find s
 
 ## Contributions
 
-Contributions to this repository are welcome! If you have a solution to a SQL interview question that you'd like to share, feel free to submit a pull request. Make sure to follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
+Contributions to this repository are welcome! If you have a solution to a SQL interview question that you'd like to share, feel free to submit a pull request. 
 
-## Connect with Us
+## Connect with Me
 
-- Subscribe to our YouTube channel: [Your YouTube Channel](https://youtu.be/aKmDHTaYS6w)
-- Follow us on LinkedIn: [@LinkedIn](https://www.linkedin.com/in/najirr/)
+- Follow  on LinkedIn: [@LinkedIn](https://www.linkedin.com/in/varmakvm/)
 
 ## Support Us
 
